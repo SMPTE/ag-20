@@ -2,9 +2,8 @@
 
 _This repository is *public*._
 
-Rendered at [https://smpte.github.io/ag-20/](https://smpte.github.io/ag-20/).
+* [Latest version](https://doc.smpte-doc.org/ag-20/main/)
+* [Redline against the latest edition](https://doc.smpte-doc.org/ag-20/main/pub-rl.html)
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
 [PATENTS.md](./PATENTS.md) for important notices.
-
-Your feedback is welcome at <https://github.com/SMPTE/ag-20/issues>.
